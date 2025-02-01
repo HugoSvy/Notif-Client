@@ -1,4 +1,4 @@
-# Envoyer une notification en JavaScript via une API sur un serveur Node.js
+## Envoyer une notification en JavaScript via une API sur un serveur Node.js
 
 1. **Créer un serveur Node.js avec Express**
 2. **Créer une route API pour envoyer des notifications**
